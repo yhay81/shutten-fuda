@@ -1,0 +1,10 @@
+{
+  "name": "出店札",
+  "short_name": "出店札",
+  "description": "出店募集を締切と条件から探す公開募集札",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5eedf",
+  "theme_color": "#24416c",
+  "icons": [{ "src": "/favicon.png", "sizes": "192x192", "type": "image/png" }]
+}
